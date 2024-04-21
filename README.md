@@ -1,2 +1,2 @@
-# ImgPyGoogleCloud
- Image Generation with Google Cloud and Python 
+PyGoogleCloud
+Training with Google Cloud and Python 
